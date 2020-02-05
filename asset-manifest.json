@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.b771dd8e.chunk.css",
-    "main.js": "/profile/static/js/main.9a863fcc.chunk.js",
-    "main.js.map": "/profile/static/js/main.9a863fcc.chunk.js.map",
+    "main.css": "/profile/static/css/main.35acd3d6.chunk.css",
+    "main.js": "/profile/static/js/main.05ce3148.chunk.js",
+    "main.js.map": "/profile/static/js/main.05ce3148.chunk.js.map",
     "runtime-main.js": "/profile/static/js/runtime-main.e4c0ad69.js",
     "runtime-main.js.map": "/profile/static/js/runtime-main.e4c0ad69.js.map",
-    "static/js/2.e93048a2.chunk.js": "/profile/static/js/2.e93048a2.chunk.js",
-    "static/js/2.e93048a2.chunk.js.map": "/profile/static/js/2.e93048a2.chunk.js.map",
+    "static/js/2.157f1779.chunk.js": "/profile/static/js/2.157f1779.chunk.js",
+    "static/js/2.157f1779.chunk.js.map": "/profile/static/js/2.157f1779.chunk.js.map",
     "index.html": "/profile/index.html",
-    "precache-manifest.d04ffa70522b8b5a7ef48e29f5b591ed.js": "/profile/precache-manifest.d04ffa70522b8b5a7ef48e29f5b591ed.js",
+    "precache-manifest.40cd32e94d97f7327a3ad65355ce459d.js": "/profile/precache-manifest.40cd32e94d97f7327a3ad65355ce459d.js",
     "service-worker.js": "/profile/service-worker.js",
-    "static/css/main.b771dd8e.chunk.css.map": "/profile/static/css/main.b771dd8e.chunk.css.map",
-    "static/js/2.e93048a2.chunk.js.LICENSE": "/profile/static/js/2.e93048a2.chunk.js.LICENSE",
+    "static/css/main.35acd3d6.chunk.css.map": "/profile/static/css/main.35acd3d6.chunk.css.map",
+    "static/js/2.157f1779.chunk.js.LICENSE": "/profile/static/js/2.157f1779.chunk.js.LICENSE",
+    "static/media/colorgame.png": "/profile/static/media/colorgame.3b342555.png",
     "static/media/eventRec.png": "/profile/static/media/eventRec.9880a09d.png",
     "static/media/landingBackground.jpg": "/profile/static/media/landingBackground.bed6a988.jpg",
+    "static/media/patatap.png": "/profile/static/media/patatap.9e8266d1.png",
+    "static/media/profilePhoto.png": "/profile/static/media/profilePhoto.7a3fd906.png",
     "static/media/tripplanner.png": "/profile/static/media/tripplanner.0086f199.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e4c0ad69.js",
-    "static/js/2.e93048a2.chunk.js",
-    "static/css/main.b771dd8e.chunk.css",
-    "static/js/main.9a863fcc.chunk.js"
+    "static/js/2.157f1779.chunk.js",
+    "static/css/main.35acd3d6.chunk.css",
+    "static/js/main.05ce3148.chunk.js"
   ]
 }
